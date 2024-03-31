@@ -1,0 +1,21 @@
+body {
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.jumbotron {
+  padding-top: 9rem;
+  background-color: #f9c5d5;
+}
+
+section {
+  padding-top: 4rem;
+}
+
+.nav-link {
+  color: #f9c5d5;
+  transition: color 0.3s;
+}
+
+.nav-link:hover {
+  color: #eb5682;
+}
